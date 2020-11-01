@@ -89,6 +89,7 @@ header .wrapper h2 {
     text-align: center;
     align-items: center;
     padding: 25px 45px;
+    height: 100vh;
 }
 
 .about .wrapper h2 {
